@@ -1,0 +1,32 @@
+body{
+    font-family: Helvetica ;
+    font-weight: 100;
+}
+
+header{
+    background-color: lightgray;
+    height: 50px;
+    text-align: center;
+    line-height: 45px;
+}
+
+ul{
+    list-style-type: none;
+}
+
+div.control-menu {
+    width:35%;
+}
+main div{
+    float:left;
+}
+
+li.menu-item{
+    height: 50px;
+    border: 2px solid dimgrey;
+    margin: 15px;
+    background-color: steelblue;
+    color: white;
+    text-align: center;
+    line-height: 45px;
+}
